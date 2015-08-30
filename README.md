@@ -1,5 +1,6 @@
 # Campaign Issues
-Issues in the Jake Porter For Iowa Governor Campaign
+
+We can be certain that other issues will emerge, but as of right now we would expect that these are the major issues for the 2018 Jake Porter For Iowa Governor Campaign.
 
 ## [Bringing Jobs and People Back to Iowa](http://jakeporter.org/bringing-jobs-and-people-back-to-iowa/)
 

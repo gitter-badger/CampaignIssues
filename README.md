@@ -10,9 +10,9 @@ We can be certain that other issues will emerge, but as of right now we would ex
 
 #How YOU can use this repository.
 
-**This repository is a resource for Jake Porter volunteers who use social media and traditional media. 
+*This repository is a resource for Jake Porter volunteers who use social media and traditional media.* 
 
-It includes a [Bulk Hootsuite Template .CSV file](https://github.com/jakeporter/CampaignIssues/blob/master/BulkHootsuiteTemplate.CSV)** which can be used with Hootsuite to accomplish bulk uploads of tweets about Jake Porter's positions on the issues.
+**It includes a [Bulk Hootsuite Template .CSV file](https://github.com/jakeporter/CampaignIssues/blob/master/BulkHootsuiteTemplate.CSV)** which can be used with Hootsuite to accomplish bulk uploads of tweets about Jake Porter's positions on the issues.
 
 A.csv file is a file of Comma-Separated Values ... very easy to use in text editors or spreadsheets, but remember to be careful about using commas anywhere.  
 

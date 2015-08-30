@@ -10,7 +10,9 @@ We can be certain that other issues will emerge, but as of right now we would ex
 
 #How YOU can use this repository.
 
-**This repository is a resource for Jake Porter volunteers who use social media and traditional media. It includes a [Bulk Hootsuite Template .CSV file](https://github.com/jakeporter/CampaignIssues/blob/master/BulkHootsuiteTemplate.CSV)** which can be used with Hootsuite to accomplish bulk uploads of tweets about Jake Porter's positions on the issues.
+**This repository is a resource for Jake Porter volunteers who use social media and traditional media. 
+
+It includes a [Bulk Hootsuite Template .CSV file](https://github.com/jakeporter/CampaignIssues/blob/master/BulkHootsuiteTemplate.CSV)** which can be used with Hootsuite to accomplish bulk uploads of tweets about Jake Porter's positions on the issues.
 
 A.csv file is a file of Comma-Separated Values ... very easy to use in text editors or spreadsheets, but remember to be careful about using commas anywhere.  
 
@@ -25,5 +27,5 @@ These particular colomns were chosen because they comply with the format for [bu
 These are the three columns are that Hootsuite uses for bulk upload robo-tweets, but the CSV files can easily be sorted, parsed, manipulated by those who find them useful.
   
 
-This repository also includes templates for other things such as Letters to the Editor, emails to news directors at local radio/TV stations and other ways of sharing your support for Jake Porter's candidacy.
+**This repository also includes templates for traditional media** such as Letters to the Editor, emails to news directors at local radio/TV stations and other ways of sharing your support for Jake Porter's candidacy.
 

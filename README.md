@@ -1,5 +1,7 @@
 # Campaign Issues
 
+[![Join the chat at https://gitter.im/jakeporter/CampaignIssues](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/jakeporter/CampaignIssues?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 We can be certain that other issues will emerge, but as of right now we would expect that these are the major issues for the 2018 Jake Porter For Iowa Governor Campaign.
 
 ## [Bringing Jobs and People Back to Iowa](http://jakeporter.org/bringing-jobs-and-people-back-to-iowa/)
